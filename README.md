@@ -1,6 +1,5 @@
 # Recommender-System
-code Implementation
+Jaewonlee-728's code practice
 
 ### Reference
 + Stanford
-+ Jaewonlee-728
